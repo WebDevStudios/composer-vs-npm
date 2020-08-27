@@ -1,6 +1,8 @@
 {
   "name": "@webdevstudios/composer-vs-npm",
   "description": "js side of composer-vs-npm",
+  "license": "GPL-3.0-or-later",
+  "repository": "https://github.com/WebDevStudios/composer-vs-npm",
   "dependencies": {
     "lodash": "^4.17.20"
   }
