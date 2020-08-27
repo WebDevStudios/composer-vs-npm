@@ -1,4 +1,7 @@
 {
   "name": "@webdevstudios/composer-vs-npm",
-  "description": "js side of composer-vs-npm"
+  "description": "js side of composer-vs-npm",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
